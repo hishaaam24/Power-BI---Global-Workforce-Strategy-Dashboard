@@ -54,13 +54,12 @@ Key measures created for the analysis:
 
 
 ### **3. Data Cleaning (Power Query)**
-* **Filtered Outliers:** Removed salary records >$500k and <$5k to prevent skew.
-* **Standardization:** Normalized Country names (e.g., "USA", "United States", "U.S.") for accurate mapping.
 * **Null Handling:** Imputed missing `EdLevel` values with "Not Specified" to maintain data integrity.
 
 ---
 
 ## 📸 Dashboard Preview
+<img width="1438" height="807" alt="image" src="https://github.com/user-attachments/assets/78ecb7f8-61c2-4a6c-b3da-42bc3e5d5cb2" />
 
 ---
 
@@ -75,7 +74,3 @@ Key measures created for the analysis:
 
 ---
 
-### **Author**
-**[Your Name]**
-* [LinkedIn Profile]([Insert_Your_LinkedIn_Link])
-* [Portfolio Website]([Insert_Your_Portfolio_Link])
